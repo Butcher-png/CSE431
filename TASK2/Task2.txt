@@ -9,7 +9,7 @@ Paper title:
 OCR Post-Processing Text Correction using Simulated Annealing
 
 Link to the paper:
-https://aclanthology.org/U17-1015/
+https://aclanthology.org/U17-1015.pdf
 
 Group Number: 
 27
