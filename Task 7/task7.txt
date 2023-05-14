@@ -10,7 +10,7 @@ Public link to the draft (Anyone on the internet can view without login):
 https://github.com/Ahmed-Anwar-2001/CSE431/blob/main/Task-06/2023_Spring_Utilizing_Optical_Character_Recognition_to_Summarize_Bengali_text.pdf
 
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/EICT2023/Track/1/Submission/Create
 
 
 Paper title:
